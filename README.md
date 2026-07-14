@@ -1,5 +1,5 @@
 # 💫 About Me
-Third-year Computer Science student at Trinity Western University (Langley, BC), graduating Dec 2027. I build mobile apps and am currently launching Capalation — a photo competition app for friend groups.
+Fourth-year Computer Science student at Trinity Western University, graduating Dec 2027. I build mobile apps. I launched Capalation - an app that puts a competative twist on group photo albums. I am also currently in the process of launching the app "Thatsaura" - an app where you track your friends aura.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matias.aldom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maaldom) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matias@aldom.com) 
